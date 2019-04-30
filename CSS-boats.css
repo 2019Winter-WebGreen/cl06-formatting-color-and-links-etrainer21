@@ -1,0 +1,42 @@
+/*
+* Emily Trainer
+* 4/12/19
+* Boats
+*/
+
+/* The universal selector */
+
+#boatfig {float: right;}
+#boat {width: 400px; height: 300px;}
+* {
+    
+
+}
+
+/* Body attributes here */
+h1{text-decoration: underline}
+h1{font-size: 300%}
+h1{text-align: center}
+
+body { font-size: "Times new Roman", Times, serif;}
+
+}
+
+header { 
+    background-color: lightsteelblue;}
+main {
+    background-color: lightskyblue;
+}
+footer {
+    background-color: darkgray;
+}
+body{ background-color: gainsboro}
+
+a:link{
+    color:black;
+    text-decoration: none
+}
+a:hover, a:focus{
+    color: darkgray;
+    text-decoration: underline;
+}
